@@ -30,6 +30,22 @@ export default function Home() {
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+          <br></br>
+          <p>THESE ARE EXPERIMENTAL CHANGES!</p>
+
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
